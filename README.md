@@ -1,6 +1,6 @@
 # Building PES-VCS — A Version Control System from Scratch
 
-**Name:** Nagalapuram Sai Mukesh Reddy
+**Name:** Nagalapuram Sai Mukesh Reddy\n
 **SRN:** PES1UG24AM170
 **Platform:** Ubuntu 22.04
 
